@@ -2,5 +2,3 @@ curl -u indraindrajit71 https://api.github.com/user/repos -d '{"name":"PSL"}'
 
 
 
-
-this is jusr for testing purpose....
