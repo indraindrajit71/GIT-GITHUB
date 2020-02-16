@@ -67,6 +67,9 @@ git pull --rebase destination master  (this will sync all between remote & local
 git remote add origin <url>
 git remote add origin1 <url>
 git remote -v
+
+
+
 git remote set-url --add --push origin <url>
 git remote set-url --add --push origin <url>
 git remote -v
