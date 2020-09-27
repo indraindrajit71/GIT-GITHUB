@@ -1,4 +1,4 @@
- # Git & GITHUB #
+ ####### Git & GITHUB ######
 
 Git is a revision control system, a tool to manage your source code history. GitHub is a hosting service for Git repositories. 
 
