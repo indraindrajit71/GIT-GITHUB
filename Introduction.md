@@ -7,9 +7,10 @@ Git is a revision control system, a tool to manage your source code history. Git
 
 ## How to add a GIT repository ##
 
-mkdir <dir-name>
-cd <dir-name>
-git init
+```mkdir <dir-name>``` 
+```cd <dir-name>``` 
+```git init``` 
+
 
 ## via this your local git repository is working and we can use it as per expected ##
 
@@ -36,7 +37,7 @@ if we get a pop something like this saying "remote already exists":
 =====>> it means that you already have a repo with same origin name already somewhere in your local Git
 
 git remote -v
-this will show if origin is mapped to the remote URL or not
+==== >> this will show if origin is mapped to the remote URL or not
 
 try deleting that origin (this will delete the local gitrepo origin)
 git remote rm origin
